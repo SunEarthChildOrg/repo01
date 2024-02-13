@@ -1,0 +1,8 @@
+Syntax of inheritance
+class Subclass-name extends Superclass-name  
+{  
+   //methods and fields  
+} 
+//is-A relationship 
+//test
+there are different types of inheritance
